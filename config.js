@@ -12,7 +12,7 @@ module.exports = {
     prefix: '.',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
-    newsletterJid: '0029VbDHTchHwXb3sdx3yO3m@newsletter', // Newsletter JID for menu forwarding
+    newsletterJid: '120363426863283917@newsletter', // Newsletter JID for menu forwarding
     updateZipUrl: 'https://github.com', // URL to latest code zip for .update command
     
     // Sticker Configuration
