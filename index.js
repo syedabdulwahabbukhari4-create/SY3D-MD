@@ -192,7 +192,7 @@ async function startBot() {
   const sessionFile = path.join(sessionFolder, 'creds.json');
 
   // Check if sessionID is provided and process KnightBot! format session
-  if (config.sessionID && config.sessionID.startsWith('KnightBot!')) {
+  if (config.sessionID && config.sessionID.startsWith('ABDUL-MD!')) {
     try {
       const [header, b64data] = config.sessionID.split('!');
 
